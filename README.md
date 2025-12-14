@@ -1,6 +1,6 @@
 # SNXS-PUBLICATION-CORE
 Canonical Constraints Framework for Restraint-Bound Cybernetics.
-# 👑 SNXS — PUBLICATION CORE v.1
+# 🔷 SNXS — PUBLICATION CORE v.1
 
 This repository contains the Canonical Constraints Framework for Restraint-Bound Cybernetics.
 
