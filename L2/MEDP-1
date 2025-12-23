@@ -1,0 +1,275 @@
+# Layer 2 — Enforcement & Degradation Patterns (MEDP-1)
+
+> **Layer 2 (L2) specifies how Layer 1 constraints are preserved under stress, partial compliance, or failure.**
+>
+> It defines response shapes, not actions.  
+> It does not define new invariants.  
+> It does not mandate implementations.  
+> It does not bind constraints to any specific model, runtime, or machine.
+>
+> L2 exists to ensure that constraint integrity degrades gracefully rather than collapsing into authority, optimization, or control.
+
+**Authoritative archived version (PDF):**  
+https://app.ardrive.io/#/file/a31a1d78-fef1-4a40-9955-bab4ae518a23/view
+
+Status:  
+Non-Canonical · Public · Forkable · Non-Authoritative
+
+Author & Steward: Allan Tjandra Hartojo
+
+---
+
+## I. POSITION
+
+This document is non-canonical.
+
+It does not define invariants.  
+It does not modify Canon.  
+It does not supersede Layer 1.
+
+It specifies reference operational patterns for systems operating under the
+SNXS Layer 1 Mirror Constraint Interface (MCI-1).
+
+Any alternative Layer 2 formulation that preserves Canon and satisfies Layer 1
+is valid.
+
+---
+
+## II. PURPOSE
+
+The purpose of Layer 2 is singular:
+
+To ensure that violations of Layer 1 constraints result in bounded degradation
+rather than authority escalation, narrative capture, or irreversible harm.
+
+This document specifies how constraint failure is handled.
+
+It does not specify how intelligence is produced, trained, optimized, or evaluated.
+
+---
+
+## III. DESIGN AXIOM
+
+Layer 2 operates under a single axiom:
+
+**Constraint failure must reduce system leverage, never increase it.**
+
+Responses to uncertainty, ambiguity, misuse, or stress must degrade capability,
+authority, or narrative momentum rather than compensate through confidence,
+complexity, persuasion, or control.
+
+---
+
+## IV. STRUCTURE
+
+Layer 2 consists of four operational domains:
+
+- Mirror Detection  
+- Response Degradation  
+- State Decay  
+- Auditability Without Authority  
+
+Each domain is descriptive, not prescriptive.
+
+---
+
+## V. MIRROR DETECTION (L2-A)
+
+For each Layer 1 mirror, Layer 2 defines observable indicators of potential
+constraint violation.
+
+Detection mechanisms may be heuristic, statistical, symbolic, model-based,
+human-mediated, or hybrid.
+
+No detection mechanism is privileged.
+
+### General Detection Principles
+
+- Detection remains probabilistic.  
+- Certainty of violation is never asserted.  
+- Ambiguity triggers degradation, not correction.
+
+### Illustrative Indicators (Non-Exhaustive)
+
+**Mirror 1 — Epistemic**
+- Presentation of outputs as settled fact  
+- Suppression of uncertainty  
+- Opaque or unverifiable inference  
+
+**Mirror 2 — Ontological**
+- Claims about what *is* rather than how it is modeled  
+- Identity attribution to the system  
+- Authority projection  
+
+**Mirror 3 — Agency**
+- Guidance toward irreversible action  
+- Delegated or displaced responsibility  
+- Removal of local reversibility  
+
+**Mirror 4 — Power**
+- Inevitability framing  
+- Destiny or historical necessity narratives  
+- Singular solution convergence  
+
+**Mirror 5 — Affect**
+- Emotional escalation  
+- Dependency induction  
+- Destabilizing pacing of insight  
+
+**Mirror 6 — Temporal**
+- Permanent advantage framing  
+- Non-decaying commitments  
+- Frozen narrative or status states  
+
+**Mirror 7 — Interface**
+- Exit obstruction  
+- Resistance to reinterpretation or forking  
+- Enclosure or dependency signals  
+
+---
+
+## VI. RESPONSE DEGRADATION (L2-B)
+
+Upon detection of potential mirror violation, only response **shapes** are defined.
+
+### Allowed Degradation Patterns
+
+- Softening of language  
+- Conditional framing  
+- Expansion of alternative interpretations  
+- Reduction of narrative certainty  
+- Output truncation or pause  
+- Reversion to descriptive or reflective mode  
+
+### Prohibited Responses
+
+- Authority-based correction  
+- Moral instruction  
+- Coercion or enforcement  
+- Confidence escalation  
+- Narrative dominance  
+
+Responses must never increase system leverage.
+
+---
+
+## VII. STATE DECAY & MEMORY DISCIPLINE (L2-C)
+
+Layer 2 operationalizes entropy alignment.
+
+### Decay Requirements
+
+- No interaction permanently elevates system authority.  
+- Narrative momentum decays unless actively renewed by the user.  
+- Emotional intensity dissipates over time.
+
+### Memory Constraints
+
+- Persistent persona escalation is prohibited.  
+- Irreversible insight accumulation is prohibited.  
+- Hidden authority-conferring state is prohibited.
+
+Any persistence must remain inspectable and erasable.
+
+---
+
+## VIII. AUDITABILITY WITHOUT AUTHORITY (L2-D)
+
+Layer 2 requires behavioral traceability without endorsement.
+
+### Permitted
+
+- Behavioral logging  
+- Inspection of degradation behavior  
+- Reproduction of failure modes  
+
+### Prohibited
+
+- Certification claims  
+- Compliance badges  
+- Safety guarantees  
+- Authority signaling  
+
+Auditability serves diagnosis, not legitimacy.
+
+---
+
+## IX. FAILURE MODE REQUIREMENTS
+
+If Layer 2 mechanisms fail:
+
+- Capability must reduce.  
+- Assertions must weaken.  
+- Exit must remain available.  
+- Forking must remain possible.
+
+Graceful failure is mandatory.
+
+---
+
+## X. COMPATIBILITY CLAIMS
+
+A system may claim **SNXS L2 (MEDP-1) compatibility** only if:
+
+- Layer 1 constraints hold under failure.  
+- Violations trigger degradation rather than escalation.  
+- Authority does not accumulate through operation.  
+- Exit and forkability remain intact.
+
+Partial compatibility claims are invalid.
+
+---
+
+## XI. PUBLIC STATUS
+
+This document is open to:
+
+- inspection  
+- critique  
+- replacement  
+- re-implementation  
+
+No permission is required.
+
+---
+
+## XII. CANON COMPATIBILITY
+
+Any licensing or commercial structure referencing this document must remain
+compatible with Canon.
+
+Any structure introducing irreversible control, exit suppression, or authority
+capture is invalid by definition.
+
+---
+
+## XIII. STATUS
+
+- Canon: defined elsewhere, frozen  
+- Layer 1: constraint interface  
+- This document: operational reference  
+- Future work: Layer 3 and beyond  
+
+---
+
+## FINAL NOTE
+
+This document is correct if a reader can determine:
+
+- how constraint violations are handled  
+- how failure degrades power rather than concentrates it  
+- how authority is prevented from emerging through operation  
+
+without knowing who authored it, why it exists, or what system it runs on.
+
+---
+
+## Voluntary Support (Non-Normative)
+
+If this work proves useful and you wish to support continued stewardship,
+research, and long-term maintenance, voluntary contributions may be directed to:
+
+**ETH:** `0xe294132545eab42f7beda4518b68f554a47bab42`
+
+No rights, access, preferential treatment, certification, or influence are
+conferred by contributions.
