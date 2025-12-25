@@ -1,1 +1,1 @@
-Add CC BY 4.0 license for OCA
+CC BY 4.0 license for OCA
