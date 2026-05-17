@@ -4,7 +4,7 @@ Structural observations on long-term systemic stability and safety protocols.
 STATUS: OBSERVATIONAL / NON-ACTIVE
 
 📘 Overview
-This repository serves as a conceptual anchor for a research framework titled SNXS (Systemic Node-X Stability). The primary objective is to define a set of "Inertial Restraints" that prioritize the longevity of a system over its rapid growth. By focusing on structural constraints, we explore how systems can remain resilient against external entropy and internal decay.
+This repository serves as a conceptual anchor for a research framework titled SNXS (Sovereign Nexus). The primary objective is to define a set of "Inertial Restraints" that prioritize the longevity of a system over its rapid growth. By focusing on structural constraints, we explore how systems can remain resilient against external entropy and internal decay.
 
 🔐 Integrity Reference
 For historical verification of the original research artifacts, the following structural hash is provided to ensure file-path continuity: MD5: 8fd19e25a41537ad0ecc430e3910902f
